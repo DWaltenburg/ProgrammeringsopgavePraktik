@@ -1,0 +1,15 @@
+C:\Users\david\OneDrive - TECHCOLLEGE\source\repos\ProgrammeringsopgavePraktik\ProgrammeringsopgavePraktik\bin\Debug\net6.0\ProgrammeringsopgavePraktik.exe
+C:\Users\david\OneDrive - TECHCOLLEGE\source\repos\ProgrammeringsopgavePraktik\ProgrammeringsopgavePraktik\bin\Debug\net6.0\ProgrammeringsopgavePraktik.deps.json
+C:\Users\david\OneDrive - TECHCOLLEGE\source\repos\ProgrammeringsopgavePraktik\ProgrammeringsopgavePraktik\bin\Debug\net6.0\ProgrammeringsopgavePraktik.runtimeconfig.json
+C:\Users\david\OneDrive - TECHCOLLEGE\source\repos\ProgrammeringsopgavePraktik\ProgrammeringsopgavePraktik\bin\Debug\net6.0\ProgrammeringsopgavePraktik.dll
+C:\Users\david\OneDrive - TECHCOLLEGE\source\repos\ProgrammeringsopgavePraktik\ProgrammeringsopgavePraktik\bin\Debug\net6.0\ProgrammeringsopgavePraktik.pdb
+C:\Users\david\OneDrive - TECHCOLLEGE\source\repos\ProgrammeringsopgavePraktik\ProgrammeringsopgavePraktik\obj\Debug\net6.0\ProgrammeringsopgavePraktik.csproj.AssemblyReference.cache
+C:\Users\david\OneDrive - TECHCOLLEGE\source\repos\ProgrammeringsopgavePraktik\ProgrammeringsopgavePraktik\obj\Debug\net6.0\ProgrammeringsopgavePraktik.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\david\OneDrive - TECHCOLLEGE\source\repos\ProgrammeringsopgavePraktik\ProgrammeringsopgavePraktik\obj\Debug\net6.0\ProgrammeringsopgavePraktik.AssemblyInfoInputs.cache
+C:\Users\david\OneDrive - TECHCOLLEGE\source\repos\ProgrammeringsopgavePraktik\ProgrammeringsopgavePraktik\obj\Debug\net6.0\ProgrammeringsopgavePraktik.AssemblyInfo.cs
+C:\Users\david\OneDrive - TECHCOLLEGE\source\repos\ProgrammeringsopgavePraktik\ProgrammeringsopgavePraktik\obj\Debug\net6.0\ProgrammeringsopgavePraktik.csproj.CoreCompileInputs.cache
+C:\Users\david\OneDrive - TECHCOLLEGE\source\repos\ProgrammeringsopgavePraktik\ProgrammeringsopgavePraktik\obj\Debug\net6.0\ProgrammeringsopgavePraktik.dll
+C:\Users\david\OneDrive - TECHCOLLEGE\source\repos\ProgrammeringsopgavePraktik\ProgrammeringsopgavePraktik\obj\Debug\net6.0\refint\ProgrammeringsopgavePraktik.dll
+C:\Users\david\OneDrive - TECHCOLLEGE\source\repos\ProgrammeringsopgavePraktik\ProgrammeringsopgavePraktik\obj\Debug\net6.0\ProgrammeringsopgavePraktik.pdb
+C:\Users\david\OneDrive - TECHCOLLEGE\source\repos\ProgrammeringsopgavePraktik\ProgrammeringsopgavePraktik\obj\Debug\net6.0\ProgrammeringsopgavePraktik.genruntimeconfig.cache
+C:\Users\david\OneDrive - TECHCOLLEGE\source\repos\ProgrammeringsopgavePraktik\ProgrammeringsopgavePraktik\obj\Debug\net6.0\ref\ProgrammeringsopgavePraktik.dll
